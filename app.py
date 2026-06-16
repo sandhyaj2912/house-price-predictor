@@ -18,7 +18,7 @@ st.divider()
 
 st.link_button(
     "📂 GitHub Repository",
-    "https://github.com/your-username/your-repo"
+    "https://github.com/sandhyaj2912/house-price-predictor.git"
 )
 
 st.markdown("### How Does the Model Work?")
